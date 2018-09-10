@@ -160,3 +160,12 @@ tr td:first-child{
   height: 350px;
   margin-left: 20%;
 }
+.fotoLorena {
+  background-image: url(../imagenes/lorena.jpeg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color:#464646;
+  height: 100%;
+  width: 100%
+ }
